@@ -368,4 +368,4 @@ export default function AWSExam() {
       </div>
     </div>
   );
-};
+}; 
