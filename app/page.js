@@ -309,7 +309,7 @@ export default function AWSExam() {
       <div className="max-w-4xl mx-auto">
         <div className="bg-white rounded-lg shadow-md p-6 mb-4">
           <div className="flex justify-between items-center mb-4">
-            <h1 className="text-2xl font-bold text-gray-800">AWS Cloud Practitioner Mock Exam</h1>
+            <h1 className="text-2xl font-bold text-gray-800">AWS Cloud Practitioner Exam Prep</h1>
             <div className="text-right">
               <p className={`text-2xl font-bold ${timeRemaining < 600 ? 'text-red-600' : 'text-blue-600'}`}>{formatTime(timeRemaining)}</p>
               <p className="text-sm text-gray-500">Time Remaining</p>
